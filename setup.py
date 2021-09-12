@@ -11,9 +11,9 @@ setup(
         description='This is a package of znsound',   # 简单描述
         author='mayong',  # 作者
         author_email='znsoft@163.com',  # 作者邮箱
-        url='https://https://github.com/BIT-ENGD/qmprompt',      # 包的主页
+        url='https://https://github.com/BIT-ENGD/znprompt',      # 包的主页
         ackages = find_packages(),              # 包
-        #package_dir ={ "qmprompt": "scripts/qmprompt" },
+        #package_dir ={ "qmprompt": "scripts/znprompt" },  # dir needing to be contained.
         install_requires=[
  
         'playsound>=1.１.0',
