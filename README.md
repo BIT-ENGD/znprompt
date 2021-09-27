@@ -13,5 +13,5 @@ from znprompt import znprompt
 test=znprompt()  
 
 test.finish()   # play a voice to notify it's finished.
-test.error()   # play a voice to ntify  it's broken.
+test.error()   # play a voice to notify  it's broken.
 ```
